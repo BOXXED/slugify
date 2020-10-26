@@ -1,0 +1,16 @@
+{
+    "name": "@jonmjones/slugify",
+    "version": "1.0.1",
+    "description": "Creates a slugify'd string from a given string",
+    "license": "MIT",
+    "repository": "boxxed/slugify",
+    "main": "index.js",
+    "keywords": [
+      "slug",
+      "slugify",
+      "friendly url",
+      "npm",
+      "package",
+      "boxxed"
+    ]
+}
